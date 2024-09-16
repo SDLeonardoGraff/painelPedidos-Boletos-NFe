@@ -1,0 +1,15 @@
+.main {
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: ; */
+    /* align-items: center; */
+    /* padding: 6rem; */
+    min-height: 100vh;
+    gap: 15rem;
+    /* color: rgb(var(--foreground-rgb)); */
+    background: linear-gradient(to bottom,
+            rgb(0, 128, 0),
+            transparent) rgb(26, 25, 25);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
